@@ -1,6 +1,14 @@
 [package]
 name = "cargo-cleanold"
 version = "0.1.0"
+authors = ["Gengen Wang"]
 edition = "2021"
+description = "Clean the local old crates by version or time"
+license = "MIT"
+homepage = "https://github.com/XuGuangnian/cargo-cleanold"
+repository = "https://github.com/XuGuangnian/cargo-cleanold"
+keywords = ["cargo", "subcommand"]
+categories = ["command-line-utilities", "development-tools::cargo-plugins"]
+rust-version = "1.75"
 
 [dependencies]
