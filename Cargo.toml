@@ -1,5 +1,5 @@
 [package]
-name = "cargo-clean-old"
+name = "cargo-cleanold"
 version = "0.1.0"
 edition = "2021"
 
